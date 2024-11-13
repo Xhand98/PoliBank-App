@@ -56,10 +56,10 @@ To configure and use ODBC with the application, follow these steps:
    }
    ```
 
-## Database Diagram
+### Database Diagram
 
 Below is a diagram representing the database schema for the PoliBank-App:
-![Diagrama](./repo-assets\PoliBank-App.svg)
+![Diagrama](./repo-assets/PoliBank-App.svg)
 
 ### Database Setup
 
