@@ -78,7 +78,7 @@ To set up the database, follow these steps:
    -- Create the Clientes table
    CREATE TABLE Clientes (
        ClienteID INT PRIMARY KEY IDENTITY(1,1),
-       ```sql
+     
        Primer_Nombre VARCHAR(100) NOT NULL,
        Segundo_Nombre VARCHAR(100),
        Primer_Apellido VARCHAR(100) NOT NULL,
